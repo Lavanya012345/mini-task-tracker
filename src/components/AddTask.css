@@ -1,0 +1,12 @@
+.text-container{
+    height: 30px;
+    border-radius: 5px;
+}
+.row{
+    display: flex;
+   
+}
+
+.des{
+    width:600px
+}
